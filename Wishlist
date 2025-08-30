@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carson's Birthday Wish List</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9fafb;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #2c3e50;
+    }
+
+    .wishlist {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    section {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+      padding: 15px;
+      text-align: center;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    section:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+    }
+
+    section img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+
+    section h2 {
+      font-size: 1.1rem;
+      margin: 10px 0;
+    }
+
+    section h2 a {
+      text-decoration: none;
+      color: #0077cc;
+    }
+
+    section h2 a:hover {
+      text-decoration: underline;
+    }
+
+    section p {
+      font-weight: bold;
+      margin: 5px 0 15px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Carson's Birthday Wish List</h1>
+
+  <div class="wishlist">
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-san-diego-padres/san-diego-padres-new-era-city-connect-batting-practice-59fifty-fitted-hat-yellow/o-2376+t-70897704+p-9188134501304+z-9-957373679?_ref=p-SRP:m-GRID:i-r14c1:po-43&sku=207412911">
+          San Diego Padres City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/san-diego-padres/mens-new-era-yellow-san-diego-padres-city-connect-batting-practice-59fifty-fitted-hat_ss5_p-202184627+pv-1+u-cveir27rgoohvfu1nvi8+v-qnstnneldammjl3jwpt6.jpg?_hv=2&w=900" alt="San Diego Padres City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-washington-nationals/washington-nationals-new-era-2025-city-connect-59fifty-fitted-hat-light-blue/navy/o-1232+t-81897881+p-0244356794191+z-9-1596523401?_ref=p-SRP:m-GRID:i-r0c1:po-1&sku=207403036">
+          Washington Nationals City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/washington-nationals/mens-new-era-light-blue/navy-washington-nationals-2025-city-connect-59fifty-fitted-hat_ss5_p-202181314+pv-1+u-abfpqridkdkczxrfcuyv+v-4bvw9wvz2ax8fuimqv4x.jpg?_hv=2&w=900" alt="Washington Nationals City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-miami-marlins/miami-marlins-new-era-2025-city-connect-59fifty-fitted-hat-black/pink/o-1254+t-03115415+p-91883682839+z-7-3605995111?_ref=p-SRP:m-GRID:i-r0c0:po-0&sku=207403096">
+          Miami Marlins Fitted Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/miami-marlins/mens-new-era-black/pink-miami-marlins-2025-city-connect-59fifty-fitted-hat_ss5_p-202181320+pv-1+u-oimju8nhutvntwszenyc+v-ubyqi3fypttcbyiuulpr.jpg?_hv=2&w=900" alt="Miami Marlins Fitted Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-chicago-white-sox/chicago-white-sox-new-era-2025-city-connect-59fifty-fitted-hat-red/black/o-1298+t-25668612+p-6899248990573+z-9-3148350374?_ref=p-SRP:m-GRID:i-r0c2:po-2&sku=207403046">
+          Chicago White Sox City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/chicago-white-sox/mens-new-era-red/black-chicago-white-sox-2025-city-connect-59fifty-fitted-hat_ss5_p-202181315+pv-1+u-dnfoehjwbgxtxojkvjan+v-sv6vl775oxuh3zrnqqmh.jpg?_hv=2&w=900" alt="Chicago White Sox City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-colorado-rockies/colorado-rockies-new-era-2025-city-connect-59fifty-fitted-hat-light-blue/o-3498+t-25442026+p-7988680110551+z-9-3238068656?_ref=p-SRP:m-GRID:i-r0c1:po-1&sku=207403086">
+          Colorado Rockies City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/colorado-rockies/mens-new-era-light-blue-colorado-rockies-2025-city-connect-59fifty-fitted-hat_ss5_p-202181319+pv-1+u-muzpeqedjdz7rdfbzmyb+v-ga3iezxadtcibclq66yw.jpg?_hv=2&w=900" alt="Colorado Rockies City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-los-angeles-dodgers/los-angeles-dodgers-new-era-city-connect-batting-practice-59fifty-fitted-hat-light-blue/o-1265+t-70110999+p-5777022390332+z-9-4114701356?_ref=p-SRP:m-GRID:i-r4c1:po-13&sku=207412856">
+          Los Angeles Dodgers City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/los-angeles-dodgers/mens-new-era-light-blue-los-angeles-dodgers-city-connect-batting-practice-59fifty-fitted-hat_ss5_p-202184622+pv-1+u-xolq9ezznejcvnrhis4h+v-qx6a1qsdjwlq6iq1foup.jpg?_hv=2&w=900" alt="Los Angeles Dodgers City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-minnesota-twins/minnesota-twins-new-era-2024-city-connect-59fifty-fitted-hat-royal/o-8987+t-47881051+p-803344263318+z-8-2890587006?_ref=p-SRP:m-GRID:i-r0c0:po-0&sku=201507205">
+          Minnesota Twins City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/minnesota-twins/mens-new-era-royal-minnesota-twins-2024-city-connect-59fifty-fitted-hat_ss5_p-200489503+pv-1+u-8u9v4bciy6hvfrkqfnlu+v-13axj5r5fykmtlbwlp80.jpg?_hv=2&w=900" alt="Minnesota Twins City Connect Hat">
+    </section>
+
+    <section>
+      <h2>
+        <a href="https://www.lids.com/mlb-philadelphia-phillies/philadelphia-phillies-new-era-2024-city-connect-59fifty-fitted-hat-navy/o-5687+t-25907734+p-797700961493+z-8-3715229364?_ref=p-SRP:m-GRID:i-r0c0:po-0&sku=201507248">
+          Philadelphia Phillies City Connect Hat
+        </a>
+      </h2>
+      <p>Size: 7</p>
+      <img src="https://images.footballfanatics.com/philadelphia-phillies/mens-new-era-navy-philadelphia-phillies-2024-city-connect-59fifty-fitted-hat_ss5_p-200489520+pv-1+u-koc44cruand1dvduomvr+v-etcz2qlmeysgajtncpk4.jpg?_hv=2&w=900" alt="Philadelphia Phillies City Connect Hat">
+    </section>
+  </div>
+</body>
+</html>
